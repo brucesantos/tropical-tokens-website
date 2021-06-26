@@ -535,6 +535,58 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/news-bitcoin.png" : {
+      "ft" : 32768,
+      "iS" : 935824,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/news-bitcoin.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/news-bloomberg.png" : {
+      "ft" : 32768,
+      "iS" : 690985,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/news-bloomberg.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/news-brnoticias.png" : {
+      "ft" : 32768,
+      "iS" : 1092908,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/news-brnoticias.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/news-cointelegraph.png" : {
+      "ft" : 32768,
+      "iS" : 514326,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/news-cointelegraph.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/svg\/play-dark.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -554,6 +606,22 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/assets\/uploads\/Manifest_eng_ptbr(20210626).pdf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/uploads\/Manifest_eng_ptbr(20210626).pdf",
+      "oF" : 0
+    },
+    "\/assets\/uploads\/Manifest_POR_Irina_REV_DBT (20210623).pdf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/uploads\/Manifest_POR_Irina_REV_DBT (20210623).pdf",
+      "oF" : 0
     },
     "\/assets\/uploads\/social-og.png" : {
       "ft" : 32768,
