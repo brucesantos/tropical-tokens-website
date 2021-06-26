@@ -67,6 +67,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/brand-68-amx.jpg" : {
+      "ft" : 16384,
+      "iS" : 387955,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/brand-68-amx.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/brand-68-amx.png" : {
+      "ft" : 32768,
+      "iS" : 11342,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/brand-68-amx.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/brand-68-apple.png" : {
       "ft" : 32768,
       "iS" : 654,
@@ -223,6 +249,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/brand-68-nth.png" : {
+      "ft" : 32768,
+      "iS" : 8579,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/brand-68-nth.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/brand-68-playstation.png" : {
       "ft" : 32768,
       "iS" : 899,
@@ -275,6 +314,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/brand-68-vround.png" : {
+      "ft" : 32768,
+      "iS" : 29410,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/brand-68-vround.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/brand-68-warner-bros.png" : {
       "ft" : 32768,
       "iS" : 1720,
@@ -288,12 +340,25 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/img\/daniel.jpeg" : {
+    "\/assets\/img\/daniel.jpg" : {
       "ft" : 16384,
-      "iS" : 155469,
+      "iS" : 251159,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/assets\/img\/daniel.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/fabio.jpg" : {
+      "ft" : 16384,
+      "iS" : 178604,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/fabio.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -453,6 +518,19 @@
       "oIPL" : 0,
       "opt" : 0,
       "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/irina.jpg" : {
+      "ft" : 16384,
+      "iS" : 246345,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/irina.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75

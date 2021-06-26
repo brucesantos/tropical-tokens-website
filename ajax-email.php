@@ -1,15 +1,15 @@
 <?php
 
 /* SETTINGS */
-$recipient = "your.email@gmail.com";
-$subject = "New Message from Contact Form";
+$recipient = "meaningful@tropicaltokens.com";
+$subject = "novo cadastro via site";
 
 if($_POST){
 
   /* DATA FROM HTML FORM */
-  $name = $_POST['name'];
+  // $name = $_POST['name'];
   $email = $_POST['email'];
-  $message = $_POST['message'];
+  // $message = $_POST['message'];
   //$phone = $_POST['phone'];
 
 
