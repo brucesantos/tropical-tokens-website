@@ -2,19 +2,20 @@
 
 /* SETTINGS */
 $recipient = "meaningful@tropicaltokens.com";
-$subject = "novo cadastro via site";
+$subject = "cadastro site";
 
 if($_POST){
 
   /* DATA FROM HTML FORM */
   // $name = $_POST['name'];
   $email = $_POST['email'];
-  // $message = $_POST['message'];
+  $message = $_POST['message'];
+  $subject = $_POST['subject'];
   //$phone = $_POST['phone'];
 
 
   /* SUBJECT */
-  $emailSubject = $subject . " by " . $name;
+  $emailSubject = $subject . " by " . $email;
 
   /* HEADERS */
   $headers = "From: $name <$email>\r\n" .
@@ -25,7 +26,7 @@ if($_POST){
              "X-Mailer: PHP/" . phpversion() . "\r\n";
  
   /* PREVENT EMAIL INJECTION */
-  if ( preg_match("/[\r\n]/", $name) || preg_match("/[\r\n]/", $email) ) {
+  if ( preg_match("/[\r\n]/", $email) || preg_match("/[\r\n]/", $email) ) {
     header($_SERVER['SERVER_PROTOCOL'] . ' 500 Internal Server Error', true, 500);
     die("500 Internal Server Error");
   }

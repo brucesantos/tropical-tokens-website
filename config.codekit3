@@ -82,7 +82,7 @@
     },
     "\/assets\/img\/brand-68-amx.png" : {
       "ft" : 32768,
-      "iS" : 11342,
+      "iS" : 36625,
       "oA" : 0,
       "oAP" : "\/assets\/img\/brand-68-amx.png",
       "oF" : 0,
@@ -607,20 +607,20 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/uploads\/Manifest_eng_ptbr(20210626).pdf" : {
+    "\/assets\/uploads\/Manifest_eng.pdf" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/uploads\/Manifest_eng_ptbr(20210626).pdf",
+      "oAP" : "\/assets\/uploads\/Manifest_eng.pdf",
       "oF" : 0
     },
-    "\/assets\/uploads\/Manifest_POR_Irina_REV_DBT (20210623).pdf" : {
+    "\/assets\/uploads\/Manifest_ptbr.pdf" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/uploads\/Manifest_POR_Irina_REV_DBT (20210623).pdf",
+      "oAP" : "\/assets\/uploads\/Manifest_ptbr.pdf",
       "oF" : 0
     },
     "\/assets\/uploads\/social-og.png" : {
