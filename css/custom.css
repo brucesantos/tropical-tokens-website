@@ -1,0 +1,41 @@
+.cookies-container {
+  margin: 0 ;
+  background: white;
+  color: #202020;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  z-index: 999;
+  opacity: 0;
+  transform: translateX(-3rem);
+  animation: slideCookie 1s forwards;
+}
+
+@keyframes slideCookie {
+  to {
+    transform: initial;
+    opacity: initial;
+  }
+}
+
+.cookies-content {
+  border-radius: 1px;
+  padding: 2rem;
+  margin: 0 auto;
+  text-align: center;
+  display: grid;
+}
+
+.agree {
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+  padding: 12px 40px;
+  margin: 0 auto;
+  background: white;
+  color: #202020;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 1px 4px rgb(0 0 0 / 10%), 0 2px 6px rgb(0 0 0 / 10%);
+}
