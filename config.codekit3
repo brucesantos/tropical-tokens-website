@@ -33,12 +33,93 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
+    "\/.gitignore" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.gitignore",
+      "oF" : 0
+    },
     "\/ajax-email.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/ajax-email.php",
+      "oF" : 0
+    },
+    "\/assets\/favicon\/android-chrome-192x192.png" : {
+      "ft" : 32768,
+      "iS" : 21412,
+      "oA" : 0,
+      "oAP" : "\/assets\/favicon\/android-chrome-192x192.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/favicon\/android-chrome-512x512.png" : {
+      "ft" : 32768,
+      "iS" : 91385,
+      "oA" : 0,
+      "oAP" : "\/assets\/favicon\/android-chrome-512x512.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/favicon\/apple-touch-icon.png" : {
+      "ft" : 32768,
+      "iS" : 19140,
+      "oA" : 0,
+      "oAP" : "\/assets\/favicon\/apple-touch-icon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/favicon\/favicon-16x16.png" : {
+      "ft" : 32768,
+      "iS" : 537,
+      "oA" : 0,
+      "oAP" : "\/assets\/favicon\/favicon-16x16.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/favicon\/favicon-32x32.png" : {
+      "ft" : 32768,
+      "iS" : 1093,
+      "oA" : 0,
+      "oAP" : "\/assets\/favicon\/favicon-32x32.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/favicon\/favicon.ico" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/favicon\/favicon.ico",
       "oF" : 0
     },
     "\/assets\/img\/avatar-36.jpg" : {
@@ -623,15 +704,15 @@
       "oAP" : "\/assets\/uploads\/Manifest_ptbr.pdf",
       "oF" : 0
     },
-    "\/assets\/uploads\/social-og.png" : {
-      "ft" : 32768,
-      "iS" : 602172,
+    "\/assets\/uploads\/social-og.jpg" : {
+      "ft" : 16384,
+      "iS" : 84072,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/uploads\/social-og.png",
+      "oAP" : "\/assets\/uploads\/social-og.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -787,6 +868,14 @@
       "oF" : 1,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/pt-br.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/pt-br.html",
+      "oF" : 0
     },
     "\/scss\/colors.scss" : {
       "aP" : 0,
@@ -975,7 +1064,7 @@
     "creationDate" : 646405705.35465503,
     "displayValue" : "tropical-tokens-website",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets_teal",
+    "iconImageName" : "\/assets\/favicon\/apple-touch-icon.png",
     "iconImageWasSetByUser" : 0
   },
   "projectSettings" : {
