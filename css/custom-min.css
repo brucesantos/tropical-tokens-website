@@ -11,6 +11,13 @@
   /* animation: slideCookie .3s forwards; */
 }
 
+@-webkit-keyframes slideCookie {
+  to {
+    transform: initial;
+    opacity: initial;
+  }
+}
+
 @keyframes slideCookie {
   to {
     transform: initial;
