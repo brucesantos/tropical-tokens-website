@@ -668,6 +668,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/svg\/logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/svg\/logo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/assets\/svg\/play-dark.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -716,6 +726,18 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/css\/custom-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/css\/custom-min-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/css\/custom.css" : {
       "aP" : 1,
@@ -838,6 +860,22 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/manifest.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/manifest.html",
+      "oF" : 0
+    },
+    "\/manifesto.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/manifesto.html",
+      "oF" : 0
     },
     "\/manual\/manual.url" : {
       "cB" : 0,
